@@ -24,5 +24,7 @@ them make it easier to understand wwhat is reachable
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+All the changes in the branches are consolidated, by viewing as diagram it makes it easier to see all the commits
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
